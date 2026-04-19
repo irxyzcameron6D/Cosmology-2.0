@@ -45,3 +45,20 @@ The universe does not simply expand and contract; it evolves its structural comp
 
 ---
 *COSAT 2.0 Mathematical Addendum - Compiled by the Lead Architect.*
+
+## V. Geometric Phase Interference & The Asymmetry Force
+At the macroscopic level, interactions are not dictated by the exchange of virtual particles, but by the physical intersection of the expanding phase-wave boundaries of particles. 
+
+When these complex phase-fronts overlap, their geometric volume of intersection determines the interaction strength. The resulting macroscopic asymmetry force is governed by a dual-component thermodynamic engine:
+
+**1. Thermodynamic Drift (Relativistic Time Delay):** Because of the relativistic time delay in phase-wave propagation, matter is constantly siphoned down the entropy gradient. It moves away from regions of high metric pressure/density and toward older, colder, less dense regions of the phase space. 
+
+**2. Topological Shielding (Fatio-LeSage Kinetic Shadow):** In pressurized regions of the metric, massive bodies physically intersect and block each other's phase-waves. This creates a "Kinetic Shadow"—a region of reduced pressure between the bodies. The ambient 6D hydrostatic pressure ($\mathcal{P}_{6D}$) of the bulk metric then physically crushes the two bodies together into this shadow.
+
+---
+
+## VI. The Death of the Dark Sector
+Because the Asymmetry Force is epoch-dependent (relying on the ambient pressure of the 6D metric), it entirely eliminates the need for placeholder mathematical variables like Dark Matter and Dark Energy. 
+
+* **Replacing Dark Matter (The 6D Hydrostatic Crush):** Standard astrophysics assumes galaxies must be filled with invisible "Dark Matter" to prevent them from spinning apart, because the visible mass isn't enough to hold them together. COSAT 2.0 proves this extra binding force is actually the **Topological Shielding** component. Galaxies are not being pulled together by invisible mass from the inside; they are being hydrostatically crushed together by the ambient 6D metric pressure from the outside.
+* **Replacing Dark Energy (The Entropy Gradient):** Standard cosmology assumes a mysterious "Dark Energy" is accelerating the expansion of the universe. In COSAT 2.0, this acceleration is simply the **Thermodynamic Drift** component dominating our current epoch. As the universe expands and the ambient metric pressure drops, Topological Shielding weakens, allowing the entropy gradient to violently siphon matter outward at an accelerating rate.
