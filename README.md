@@ -5,6 +5,25 @@ Early iterations of this framework relied on discrete-orbit models and were form
 
 ---
 
+## Abstract
+
+Standard models of cosmology and quantum mechanics increasingly rely on non-physical mathematical placeholders—namely Dark Matter, Dark Energy, singularities, and virtual particles—to reconcile observational anomalies with strictly local, vacuum-dependent field equations. This paper introduces Phase Kinetics, a continuous fluid-dynamic architecture that resolves these anomalies without the need for exotic particles or fundamental field disconnects. By modeling fundamental matter as 1D topological knots suspended in a 6D hydrostatic fluid metric, we demonstrate that all kinematic motion and macroscopic forces emerge strictly from phase-wave interference and thermodynamic entropy gradients ( 
+P
+
+  
+imag
+​	
+ ∝∇S 
+divergent
+​	
+ ).
+
+We establish that gravity is not a fundamental attractive force, but a localized residual van der Waals charge asymmetry. From this baseline, the Strong Nuclear Force is mechanically derived as a femtometer-scale kinetic shadow, while flat galactic rotation curves—traditionally attributed to Dark Matter—are mathematically resolved by accounting for the macroscopic R 
+3
+  kinetic attenuation (the "Metric Fog") of the interstellar medium. Furthermore, we demonstrate that the accelerating expansion of the universe (Dark Energy) is a compounded optical illusion resulting from the breaking of Pound-Rebka symmetry, driven by the finite propagation lag of gravitational phase-waves across a decaying cosmic density volume. Finally, by modeling black hole event horizons as 2D kinetic shields rather than infinitely dense singularities, we close the thermodynamic loop of the universe, replacing terminal heat death with a scale-invariant, perpetual systolic meta-cycle.
+
+---
+
 ## I. Redefining Motion: Thermodynamic Drift
 In standard kinematics, momentum is treated as a fundamental, unexplained property. In Phase Kinetics, momentum is a thermodynamic flow state. Motion occurs because particles are attempting to cool down.
 
