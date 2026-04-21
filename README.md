@@ -226,12 +226,17 @@ Manipulate[
 (* ==================================================================== *)
 
 EntropyField[x_, y_, shadowMass_] := -shadowMass / Sqrt[x^2 + y^2];
-PMV[x_, y_, shadowMass_] := -Grad[EntropyField[x, y, shadowMass], {x, y}];
+
+(* FIX: Using '=' instead of ':=' forces the symbolic derivative to calculate immediately *)
+PMV[x_, y_, shadowMass_] = -Grad[EntropyField[x, y, shadowMass], {x, y}];
 
 Print["Vector Plot of the Primary Imaginary Momentum Vector (Thermodynamic Drift):"]
 Manipulate[
- VectorPlot[PMV[x, y, shadowMass], {x, -10, 10}, {y, -10, 10},
+ (* FIX: Evaluate[] ensures the vector field is resolved before Manipulate feeds it numbers *)
+ VectorPlot[Evaluate[PMV[x, y, shadowMass]], {x, -10, 10}, {y, -10, 10},
   VectorColorFunction -> "TemperatureMap",
+  VectorScale -> Medium, 
+  VectorPoints -> 20,
   PlotLabel -> "PMV Alignment: Particles Venting Heat into the Kinetic Shadow"],
  {{shadowMass, 10, "Shadow Depth (Mass/Pressure)"}, 1, 50}
 ]
